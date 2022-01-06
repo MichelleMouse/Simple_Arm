@@ -1,0 +1,2 @@
+-I/opt/ros/kinetic/include
+-Isrc/simple_arm/include/
