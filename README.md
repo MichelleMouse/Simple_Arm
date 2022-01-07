@@ -3,11 +3,11 @@
 
 Simple arm mini-project from Udacity's Robotics Software Engineer Nanodegree. This mini-project uses [Simple Arm](https://github.com/udacity/RoboND-simple_arm/tree/first_interaction) repository as a base.  
 
-<p align="center"><img src="src/simple_arm/images/gazebo_sim.png" alt="Gazebo simulation of simple_arm node" width="400" /></p>
+<p align="center"><img src="src/simple_arm/images/gazebo_sim.png" alt="Gazebo simulation of simple_arm node" width="700" /></p>
 
 ## Environment
 👉 Ubuntu 16.04 LTS  
-👉 [ROS Kinetic Kame](http://wiki.ros.org/kinetic)
+👉 [ROS Kinetic Kame](http://wiki.ros.org/kinetic)  
 👉 C++ 11   
 
 ## Compiling and Running
